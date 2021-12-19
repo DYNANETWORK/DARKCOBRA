@@ -4,4 +4,4 @@
 
 <H>STRING SESSION</H>
 
-[![REPL.IT](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SUKHPAL443/MAMBAVC#main.py)
+[![REPL.IT](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SUKHPAL443/DARKCOBRA-1#main.py)
