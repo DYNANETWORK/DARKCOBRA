@@ -1,3 +1,7 @@
+<h> ⭐🌟 D͙A͙R͙K͙ C͙O͙B͙R͙A͙ 🌟⭐ </h>
+
+
+
 <h>TAP TO DAPLOY</h>
 
 <p align=""><a href="https://heroku.com/deploy?template=https://github.com/SUKHPAL443/MAMBAVC">
@@ -7,6 +11,9 @@
 
 [![REPL.IT](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SUKHPAL443/DARKCOBRA-1#main.py)
 
-#NOTE 
+<h>🌟 N͙O͙T͙E͙ 🌟 </h>
 
-<p> THIS BOT IS ONLY FOR INDIANS. IF ANY OTHER COUNTRY PERSON WANT THIS BOT SO PLEASE TELL ME OR CONTACT ME ON TELEGRAM @MAMBA_STAR </p>
+<p> THIS BOT IS ONLY FOR INDIANS. IF ANY OTHER COUNTRY PERSON WANT THIS BOT SO PLEASE TELL ME OR CONTACT ME ON TELEGRAM @MAMBA_STAR. PLEASE THIS BOT DEPLOY ON YOUR INDIANS NUMBERS
+OTHERWISE YOUR FAKE ID IS BAN WITH THIS BOT. </p>
+
+
