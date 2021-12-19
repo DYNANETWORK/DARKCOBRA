@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "website": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "success_url": "https://t.me/Dark_cobra_support",
+  "repository": "https://github.com/SUKHPAL443/DARKCOBRA/",
+  "website": "https://github.com/SUKHPAL443/DARKCOBRA/",
+  "success_url": "https://t.me/MAMBA_X_SUPPORT",
   "stack": "container",
   "env": {
     "ENV": {
@@ -30,7 +30,7 @@
     },
 
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @hellboi_atul.",
+      "description": "Fill your Full name or Username like @MAMBA_STAR.",
       "value": "",
       "required": true
     },
@@ -119,7 +119,7 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://darkcobra.crazycreatorr.repl.run/ ",
+      "description": "Get this value by running https://replit.com/@SUKHPAL443/DARKCOBRA-1#main.py/ ",
       "value": "",
       "required": true
     },
@@ -129,7 +129,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: hellboi-atul/hellboi-atul, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: SUKHPAL443/DARKCOBRA, but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
