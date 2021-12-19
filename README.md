@@ -9,7 +9,7 @@
 
 <H>STRING SESSION</H>
 
-[![REPL.IT](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SUKHPAL443/DARKCOBRA-1#main.py)
+[![REPL.IT](https://img.shields.io/badge/repl.it-generateString-yellowgreen    width="200" height="50")](https://replit.com/@SUKHPAL443/DARKCOBRA-1#main.py)
 
 <h>🌟 N͙O͙T͙E͙ 🌟 </h>
 
